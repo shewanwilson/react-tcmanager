@@ -1,0 +1,11 @@
+div.step{
+    border: 1px red solid;
+    padding: 25px;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+
+p.no-steps{
+    text-align: center;
+}
+

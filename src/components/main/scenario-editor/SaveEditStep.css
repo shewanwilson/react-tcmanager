@@ -1,0 +1,10 @@
+.save-animation{
+   display: none;
+}
+
+.save-animation.edit-active{
+    display: inline;
+    margin: 0px auto;
+	position: relative;
+    border: green 1px solid;
+}

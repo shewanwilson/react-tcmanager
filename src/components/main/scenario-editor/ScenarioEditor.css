@@ -1,0 +1,7 @@
+.scenario-editor{
+
+    background-color:bisque;
+    display: grid;
+    grid-template-rows: 1fr 9fr;
+
+}

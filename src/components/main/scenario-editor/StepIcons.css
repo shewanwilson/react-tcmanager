@@ -1,0 +1,26 @@
+div.step-buttons{
+    text-align: right;
+    display: none;
+} 
+
+/* When test step is entered by cursor */
+div.step-buttons.hover-active{
+    display: inline;
+}
+/* When edit is activated, hide the icon buttons  */
+div.step-buttons.edit-active{
+    display: none;
+}
+
+span.step-button{
+    margin-right: 4px;    
+}
+
+span#edit-step:hover{
+    color: purple;
+    cursor: pointer;    
+}
+span#delete-step:hover{
+    color: red;
+    cursor: pointer;    
+}

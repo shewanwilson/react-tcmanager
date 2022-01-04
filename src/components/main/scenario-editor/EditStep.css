@@ -1,0 +1,18 @@
+div.edit-step-input{
+    display: none;
+}
+
+div.edit-step-input.edit-active{
+    width: 100%;
+    display: inline;    
+    border: black solid 1px;    
+}
+
+
+
+/* .save-icon{
+    
+    text-align: center;
+    height: 3em;
+    width: 5em;   
+} */
